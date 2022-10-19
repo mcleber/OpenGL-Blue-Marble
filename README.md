@@ -1,6 +1,6 @@
 # Blue Marble project made in C++ and OpenGL
 
-Starting studies in computer graphics with OpenGL.
+Studying computer graphics with OpenGL.
 
 This is my result of the Introduction to Computer Graphics Course by Thales Sabino.
 
