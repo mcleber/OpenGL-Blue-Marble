@@ -2,6 +2,12 @@
 
 Studying computer graphics with OpenGL.
 
+This is not a static project. It is possible to control the camera using the WASD keys and with the left mouse button the Yaw and Pitch movements.
+
+Clouds move around the planet.
+
+There is also diffuse and specular lighting (Phong Model).
+
 This is my result of the Introduction to Computer Graphics Course by Thales Sabino.
 
 <img src="https://github.com/mcleber/Cpp-OpenGL-Blue-Marble/blob/main/BlueMarbleImage01.jpg" width="450" height="354">
