@@ -50,3 +50,11 @@ This is my result of the Introduction to Computer Graphics Course by Thales Sabi
 ``make``
 
 ``./BlueMarble``
+
+## links
+
+[OpenGL® 4.5 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl4/)
+
+[OpenGL® 4.5 Quick Reference Card](https://www.khronos.org/files/opengl45-quick-reference-card.pdf)
+
+[GLSL_Quick Reference](http://mew.cx/glsl_quickref.pdf)
