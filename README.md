@@ -22,7 +22,7 @@ This is my result of the Introduction to Computer Graphics Course by Thales Sabi
 * STB Image
 * CMake
 
-## Installing dependencies on Linux
+## Installing dependencies on Linux and running the program
 
 * OpenGL Libraries
 
