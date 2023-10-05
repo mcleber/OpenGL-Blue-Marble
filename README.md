@@ -20,6 +20,7 @@ This is my result of the Introduction to Computer Graphics Course by Thales Sabi
 * GLFW
 * GLM
 * STB Image
+* CMkake
 
 ## Installing dependencies on Linux
 
