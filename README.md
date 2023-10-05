@@ -14,14 +14,14 @@ This is my result of the Introduction to Computer Graphics Course by Thales Sabi
 
 <img src="https://github.com/mcleber/Cpp-OpenGL-Blue-Marble/blob/main/screenshot/BlueMarbleImage02.jpg" width="450" height="354">
 
-## Dependencies for Windows
+## Dependencies
 
 * GLEW
 * GLFW
 * GLM
 * STB Image
 
-## Dependencies for Linux
+## Installing dependencies on Linux
 
 * OpenGL Libraries
 
