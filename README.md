@@ -22,7 +22,7 @@ This is my result of the Introduction to Computer Graphics Course by Thales Sabi
 * STB Image
 * CMake
 
-## Installing dependencies on Linux and running the program
+## Installing dependencies on Linux
 
 * OpenGL Libraries
 
@@ -30,11 +30,21 @@ This is my result of the Introduction to Computer Graphics Course by Thales Sabi
 
 ``sudo apt install mesa-common-dev``
 
-* GLEW e o GLFW
+* GLEW and GLFW
 
 ``sudo apt install libglew-dev libglfw3-dev``
 
-* Compile on Linux
+- STB Image and GLM
+
+``sudo apt install libstb-dev libglm-dev``
+
+- CMake
+
+``sudo apt install cmake``
+
+``cmake --version``
+
+## Build, compile and run the program
 
 ``cd BlueMarble``
 
@@ -42,17 +52,23 @@ This is my result of the Introduction to Computer Graphics Course by Thales Sabi
 
 ``cd build``
 
-* Run CMake to generate the Makefile
-
 ``cmake ..``
-
-* Compile and run the project
 
 ``make``
 
 ``./BlueMarble``
 
 ## links
+
+[CMake](https://cmake.org)
+
+[GLEW](https://glew.sourceforge.net)
+
+[GLFW](https://www.glfw.org)
+
+[STB Image](https://github.com/nothings/stb)
+
+[GLM](https://github.com/g-truc/glm)
 
 [OpenGL® 4.5 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl4/)
 
